@@ -1,3 +1,4 @@
-pip3 install prophet
-pip install yfinance
-pip install plotly
+plotly==5.4.0
+prophet==1.1.1
+streamlit==1.13.0
+yfinance==0.1.84
